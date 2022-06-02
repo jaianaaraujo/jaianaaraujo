@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+
 
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil
 - 🌱 I am currently studying: Python, machine leaning,statistics, NumPy and pandas.

@@ -7,7 +7,7 @@
 - 🚀 Study programming since May 2021, when I started the Certified Tech Developer course at Digital House Brazil;
 - ✨ In May 2021 when I started my transition to Fullstack Web. Knowing the range of options that the IT universe offers. Currently, I have the studies directed to Data Science;
 - 💻 I am currently studying: Python, machine leaning, statistics, NumPy and pandas;
- <img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=ivanDourado&repo=jaianaaraujo&countColorcountColor&style=flat">
+ 
 <hr>
 <div>
   <a href="https://github.com/jaianaaraujo">

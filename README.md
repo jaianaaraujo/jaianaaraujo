@@ -1,3 +1,5 @@
+
+<br>
 <p align="center"><strong>Encontre-me:</strong><p> 
 
 <div align="center">   

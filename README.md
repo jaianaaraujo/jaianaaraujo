@@ -4,9 +4,9 @@
   <a href="https://www.linkedin.com/in/jaiana-santos-dev/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode" /></a>
    
   
-  ![Snake animation](https://github.com/jaianaaraujo/jaianaaraujo/blob/output/github-contribution-grid-snake.svg)
+
   
   <br>
   
-  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=BBMiranda">-->
+  
 </div>
